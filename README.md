@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Analytics**
 
-- 🌱 I’m currently learning **PYTHON, SQL, Automation.**
+- 🌱 I’m currently learning **PYTHON, SQL, PowerBI.**
 
 - 💬 Ask me about **Environment, Technology and Finances**
 
